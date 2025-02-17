@@ -8,10 +8,10 @@ Customer churn is a critical problem for businesses, as retaining customers is o
 🤖 Train machine learning models in Python to enhance predictive capabilities.
 
 ## 📌 Key Features
-✅ SQL Database Management - Efficiently store and retrieve customer data.
-✅ Python-based Predictive Model - Use machine learning to classify customers as likely to churn.
-✅ Power BI Dashboard - Interactive reports for tracking customer behavior and churn trends.
-✅ End-to-End Pipeline - Connect data from SQL, process it in Python, and visualize it in Power BI.
+- ✅ SQL Database Management - Efficiently store and retrieve customer data.
+- ✅ Python-based Predictive Model - Use machine learning to classify customers as likely to churn.
+- ✅ Power BI Dashboard - Interactive reports for tracking customer behavior and churn trends.
+- ✅ End-to-End Pipeline - Connect data from SQL, process it in Python, and visualize it in Power BI.
 
 ## 📊 Power BI Dashboard
 The Power BI component includes:
